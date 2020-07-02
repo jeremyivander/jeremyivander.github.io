@@ -56,5 +56,25 @@ li{
 	text-align: center;
 }
 
+.skill .hs:hover {
+	background-color: #E4E4E4;
+	transition: 1.2s;
+}
 
+.skill .ss:hover {
+	background-color: #E4E4E4;
+	transition: 1.2s;
+}
 
+.skill .ls:hover {
+	background-color: #E4E4E4;
+	transition: 1.2s;
+}
+
+.jumbotron{
+	background: url(img/subtle/moroccan-flower-dark.png);
+}
+
+.jumbotron h1, .jumbotron p{
+	color: white;
+}
